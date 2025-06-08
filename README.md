@@ -58,7 +58,7 @@ This app follows Human-Computer Interaction (HCI) principles focusing on:
 
 ## Demo Video
 
-[YouTube Demo Link](YOUR_YOUTUBE_LINK_HERE)
+https://youtu.be/6uhE7Lga9EA
 
 ---
 
